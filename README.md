@@ -84,7 +84,7 @@ La solución fue implementada en Java respetando:
 
 ## 🧩 Diagrama de Clases
 
-El siguiente diagrama de clases fue utilizado como base para el diseño y la implementación del sistema:
+El diseño del sistema se basa en el diagrama UML provisto , el cual fue respetado durante toda la implementación.
 <img width="1190" height="788" alt="image" src="https://github.com/user-attachments/assets/47d1aa6e-98c6-4176-9a08-9d63ce782882" />
 
 ---
